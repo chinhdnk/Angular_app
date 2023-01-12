@@ -6,3 +6,10 @@ MY TO-DO LIST
 4. Attend classes on time.
 5. Visit aunt.
 6. Apply for remote jobs. 
+7. Learn soft skills 
+
+Git and GitHub Tutorial – Version Control for Beginners
+Basic Git Commands – How to Use Git in a Real Project
+Git and GitHub for Beginners - Crash Course
+An introduction to Git: what it is, and how to use it
+About GitHub
